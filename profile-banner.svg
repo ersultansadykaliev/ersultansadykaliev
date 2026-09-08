@@ -23,7 +23,7 @@
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
     <g fill="#f4f7fb">
       <g opacity="0">
-        <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.04;.21;.25;1" dur="20s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.03;.18;.22;1" dur="25s" repeatCount="indefinite"/>
         <text x="92" y="82" fill="#718198" font-size="14">era.profile / intro</text>
         <text x="92" y="145" font-size="34" font-weight="700"># Hi, I'm Era 👋</text>
         <text x="92" y="195" font-size="22" fill="#d2dbea">Programming Technologies student at INAI</text>
@@ -33,7 +33,7 @@
       </g>
 
       <g opacity="0">
-        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.24;.28;.46;.50;1" dur="20s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.22;.26;.38;.42;1" dur="25s" repeatCount="indefinite"/>
         <text x="92" y="82" fill="#718198" font-size="14">era.profile / stack</text>
         <text x="92" y="145" font-size="28" fill="#f89820">## Tech Stack</text>
         <text x="92" y="202" font-size="22">☕ Java</text>
@@ -44,7 +44,7 @@
       </g>
 
       <g opacity="0">
-        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.49;.53;.70;.74;1" dur="20s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.42;.46;.58;.62;1" dur="25s" repeatCount="indefinite"/>
         <text x="92" y="82" fill="#718198" font-size="14">era.profile / learning</text>
         <text x="92" y="145" font-size="28" fill="#f89820">## Currently Learning</text>
         <text x="92" y="205" font-size="22">- Java Core</text>
@@ -54,14 +54,21 @@
       </g>
 
       <g opacity="0">
-        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.73;.77;.96;1;1" dur="20s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.62;.66;.78;.82;1" dur="25s" repeatCount="indefinite"/>
         <text x="92" y="82" fill="#718198" font-size="14">era.profile / goals</text>
         <text x="92" y="145" font-size="28" fill="#f89820">## Projects</text>
         <text x="92" y="202" font-size="22">I build educational and personal projects</text>
         <text x="92" y="242" font-size="22">to practice programming and explore</text>
         <text x="92" y="282" font-size="22">new technologies.</text>
-        <text x="92" y="342" font-size="22" fill="#f89820">## Goals</text>
-        <text x="92" y="382" font-size="18">Become a strong Java Backend Developer and grow as a software engineer.</text>
+      </g>
+
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.82;.86;.96;1;1" dur="25s" repeatCount="indefinite"/>
+        <text x="92" y="82" fill="#718198" font-size="14">era.profile / goals</text>
+        <text x="92" y="145" font-size="28" fill="#f89820">## Goals</text>
+        <text x="92" y="215" font-size="22">Become a strong Java Backend Developer</text>
+        <text x="92" y="260" font-size="22">and continuously grow as a software engineer.</text>
+        <text x="92" y="335" font-size="22" fill="#f89820">Always learning. Always building.</text>
       </g>
     </g>
     <rect x="1060" y="370" width="11" height="25" rx="2" fill="#f89820">

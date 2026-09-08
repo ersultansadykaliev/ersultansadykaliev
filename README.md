@@ -3,7 +3,4 @@
 </div>
 
 <div align="center">
-  <h1>Hi, I'm Era 👋</h1>
-  <p><strong>Programming Technologies Student at INAI</strong><br>
-  Aspiring Java Backend Developer</p>
-</div>
+  

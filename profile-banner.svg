@@ -374,7 +374,7 @@
     </g>
 
     <!-- ═══════════ SECTION 2: TECH STACK  (25%–50%, 10s–20s) ═══════════ -->
-    <g>
+    <g opacity="0">
       <animate attributeName="opacity" dur="40s" repeatCount="indefinite"
         values="0;0;1;1;0;0" keyTimes="0;.25;.275;.475;.50;1"/>
 
@@ -391,7 +391,7 @@
     </g>
 
     <!-- ═══════════ SECTION 3: LEARNING  (50%–75%, 20s–30s) ═══════════ -->
-    <g>
+    <g opacity="0">
       <animate attributeName="opacity" dur="40s" repeatCount="indefinite"
         values="0;0;1;1;0;0" keyTimes="0;.50;.525;.725;.75;1"/>
 
@@ -407,7 +407,7 @@
     </g>
 
     <!-- ═══════════ SECTION 4: PROJECTS & GOALS  (75%–100%, 30s–40s) ═══════════ -->
-    <g>
+    <g opacity="0">
       <animate attributeName="opacity" dur="40s" repeatCount="indefinite"
         values="0;0;1;1;0" keyTimes="0;.75;.775;.975;1"/>
 
